@@ -1,0 +1,53 @@
+header {
+  background-color: #ec0a73;
+}
+
+section {
+  background-color: #f8c462;
+}
+section h1 {
+  color: #05728d;
+}
+section .main-text {
+  color: #c01b1b;
+}
+section .main-text strong {
+  color: #eefd65;
+}
+
+footer {
+  background-color: #fab6b6;
+}
+footer p {
+  color: #05728d;
+}
+footer p strong {
+  color: #c01b1b;
+}
+
+.card-1 {
+  background-color: #c01b1b;
+  width: 100px;
+  height: 100px;
+  color: #eefd65;
+}
+
+.card-2 {
+  background-color: #fab6b6;
+  width: 200px;
+  height: 200px;
+  color: #eefd65;
+}
+
+.card-3 {
+  background-color: #05728d;
+  width: 200px;
+  height: 200px;
+  color: #eefd65;
+}
+
+body {
+  background-color: #278613;
+}
+
+/*# sourceMappingURL=styles.css.map */

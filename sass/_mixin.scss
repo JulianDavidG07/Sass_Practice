@@ -1,0 +1,18 @@
+@mixin master_card($color, $width:200px, $height:200px){
+    background-color: $color;
+    width: $width;
+    height: $height;
+    color: $color_secondary;
+}
+
+.card-1 {
+    @include master_card($color_danger, 100px, 100px);
+}
+
+.card-2 {
+    @include master_card($color_text);
+}
+
+.card-3 {
+    @include master_card($color_primary);
+}

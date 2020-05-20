@@ -1,0 +1,15 @@
+section {
+    background-color: $color_success;
+
+    h1 {
+        color: $color_primary;
+    }
+
+    .main-text {
+        color: $color_danger;
+
+        strong {
+            color: $color_secondary;
+        }
+    }
+}

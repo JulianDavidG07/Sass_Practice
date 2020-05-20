@@ -1,0 +1,9 @@
+@import "variables";
+@import "header";
+@import "section";
+@import "footer";
+@import "mixin"; // This is a mixins example
+
+body {
+    background-color: $color_font
+}
